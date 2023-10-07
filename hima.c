@@ -2,6 +2,7 @@
 int main()
 {
 	int a,b;
+	printf("Enter a and b vaues:");
 	scanf("%d%d",&a,&b);
 	c=a+b;
 	printf("%d",c);
